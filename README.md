@@ -1,2 +1,2 @@
 # tinder-clone-python-sql
-Tinder Clone
+Tinder Clone Python
